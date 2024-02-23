@@ -1,0 +1,30 @@
+.post {
+    border: 2px solid #8CB9BD;
+    border-radius: 7px;
+    margin: 0 0 12px 0;
+}
+
+.post-image {
+    text-decoration: none;
+    color:inherit;
+    display: block;
+    padding: 12px 20px;
+}
+
+.post-no-image {
+    padding: 12px 20px;
+}
+
+.post-content {
+    margin: 0 0 6px 0;
+}
+
+.post-sub-content {
+    color: #737373;
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.post-delete {
+    padding: 0 0 6px 20px;
+}
